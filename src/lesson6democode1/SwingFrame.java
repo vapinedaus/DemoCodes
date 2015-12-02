@@ -9,7 +9,7 @@ public class SwingFrame
 	frame.setTitle("Hello World");
 	frame.setSize(300,200);
 	frame.setResizable(false);
-	frame.setVisible(true); // always set this to true  
+	frame.setVisible(true); // always set this to true
 	frame.setLocation(100, 100);
 	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);   // program is running and not close
 	}
