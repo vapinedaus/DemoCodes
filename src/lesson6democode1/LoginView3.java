@@ -11,17 +11,19 @@ import javax.swing.JTextField;
 public class LoginView3 {
 	public static void main(String[] args) {
 		JFrame frame = new JFrame("Demo application");
+		frame.setTitle("Log-in Screen");
 		frame.setSize(300, 150);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		placeComponents(frame);
 		frame.setVisible(true);
 	}
 	private static void placeComponents(JFrame frame) {
-		frame.setLayout(null);
+		frame.setLayout(null); // you can do absolute positioning
 
 		JLabel userLabel = new JLabel("User");
-		userLabel.setBounds(10, 10, 80, 25);
-		frame.add(userLabel);
+		//(x,y,width,height)
+		userLabel.setBounds(10, 10, 80, 25); //??
+		frame.add(userLabel); // 
 
 		JTextField userText = new JTextField(20);
 		userText.setBounds(100, 10, 160, 25);

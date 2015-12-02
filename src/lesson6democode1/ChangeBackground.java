@@ -12,9 +12,11 @@ public class ChangeBackground extends JFrame{
 		 setTitle("Backgroung Changing");
 		 setSize(300,300);
 		 setVisible(true);
+		 setBackground(Color.BLACK);
 	     setDefaultCloseOperation( EXIT_ON_CLOSE );
 	     Container contentPane = getContentPane();
 	     contentPane.setBackground(Color.blue);
+	     setBackground(Color.pink);
 	     
 	  }
 }
