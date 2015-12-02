@@ -11,7 +11,7 @@ public class SwingFrame
 	frame.setResizable(false);
 	frame.setVisible(true); // always set this to true
 	frame.setLocation(100, 100);
-	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);   // program is running and not close
+	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);    // program is running and not close
 	}
 }
 
