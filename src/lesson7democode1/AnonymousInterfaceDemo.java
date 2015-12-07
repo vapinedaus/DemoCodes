@@ -1,8 +1,9 @@
 package lesson7democode1;
 interface Printable{
-void print(String msg);
-String Concate(String s1, String s2);
+	void print(String msg);
+	String Concate(String s1, String s2);
 }
+
 abstract class test{
 	abstract void display();
 	test()
