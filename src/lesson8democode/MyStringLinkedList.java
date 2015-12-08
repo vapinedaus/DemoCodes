@@ -32,11 +32,13 @@ public class MyStringLinkedList {
 // implement the code
 
        public int Size(){
+		return 0;
        }
 
 // implement code
     public boolean isEmpty()
 {
+	return false;
 }  
 
  

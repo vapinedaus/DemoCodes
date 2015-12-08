@@ -1,9 +1,9 @@
-package lesson8comparator;
+package lesson8democode.comparatorEmployee;
 
 import java.util.*;
 
-public class NameComparator2 implements Comparator<Employee>{
-
+public class NameComparatorGood implements Comparator<Employee>{
+     // consistent with equals
 	@Override
 	public int compare(Employee e1, Employee e2) {
 		String name1 = e1.getName();
@@ -21,8 +21,16 @@ public class NameComparator2 implements Comparator<Employee>{
 	public static void main(String[] args) {
 		Employee e1 = new Employee("Joe", 1999, 10, 2);
 		Employee e2 = new Employee("Joe", 2001, 9, 4);
-		NameComparator2 comp = new NameComparator2();
+		Employee e3 = new Employee("Amila", 2010, 9, 14);
+		NameComparatorGood comp = new NameComparatorGood();
 		System.out.println(e1.equals(e2));
 		System.out.println(comp.compare(e1,e2));
+			
+		List<Employee> list = new ArrayList<Employee>();
+		list.add(e1);
+		list.add(e2);
+		list.add(e3);
+		Collections.sort(list, comp);
+		System.out.println(list);
 	}
 }

@@ -1,4 +1,4 @@
-package lesson8comparator;
+package lesson8democode.comparator;
 
 import java.util.Comparator;
 

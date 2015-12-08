@@ -1,4 +1,4 @@
-package lesson8comparator.lambda;
+package lesson8democode.comparatorlambda;
 
 public class Employee {
 	String name;

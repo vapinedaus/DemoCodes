@@ -1,4 +1,4 @@
-package lesson8comparator.employee;
+package lesson8democode.comparatorEmployee;
 
 import java.util.ArrayList;
 import java.util.Collections;

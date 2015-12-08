@@ -1,4 +1,4 @@
-package lesson8comparator.lambda;
+package lesson8democode.comparatorlambda;
 
 import java.util.ArrayList;
 import java.util.Collections;
