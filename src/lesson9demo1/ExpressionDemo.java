@@ -1,4 +1,4 @@
-package lesson9stackqueue;
+package lesson9demo1;
 
 // Stack Application Demo - to check the expression syntax
 

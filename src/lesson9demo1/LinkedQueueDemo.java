@@ -1,4 +1,4 @@
-package lesson9stackqueue;
+package lesson9demo1;
 // User Implementation of Queue
 class LinkedQueue
 {

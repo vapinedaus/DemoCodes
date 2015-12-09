@@ -170,7 +170,10 @@ public class MyStringLinkedList {
 
 	public static void main(String[] args) {
 		MyStringLinkedList mySL = new MyStringLinkedList();
+		mySL.addFront("Carrot Cake");
+		mySL.addFront("Blueberry Muffin");
 		System.out.println(mySL);
+		/*System.out.println(mySL);
 		mySL.printReverse();
 		mySL.addFront("Carrot Cake");
 		System.out.println(mySL);
@@ -213,7 +216,7 @@ public class MyStringLinkedList {
 		mySL.printReverse();
 		mySL.deleteList();
 		System.out.println(mySL);
-		mySL.printReverse();
+		mySL.printReverse();*/
 	}
 
 }

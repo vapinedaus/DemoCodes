@@ -20,7 +20,7 @@ public class TallySales {
 		fillTheList(sales);
 		Sale ob = sales.get(1);
 		System.out.println(ob.item + " " + ob.price);
-		double total = 0;
+		double total = 0; 	
 		for (Sale sale : sales) {
 		if (sale.item.equals("DVD")) {
 		total += sale.price;

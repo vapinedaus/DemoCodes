@@ -1,4 +1,4 @@
-package lesson9stackqueue;
+package lesson9demo1;
 import java.util.Iterator;
 import java.util.PriorityQueue;
 import java.util.Queue;
