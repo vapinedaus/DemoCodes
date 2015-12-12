@@ -1,4 +1,4 @@
-package lesson11hashtable;
+package lesson11democode1;
 import java.util.*;
 public class HashDemo2 {
 

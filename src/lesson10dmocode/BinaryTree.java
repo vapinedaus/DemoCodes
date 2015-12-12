@@ -1,4 +1,4 @@
-package lesson10binarysearchtree;
+package lesson10dmocode;
 // User Implementation for treemap
 public class BinaryTree 
 {

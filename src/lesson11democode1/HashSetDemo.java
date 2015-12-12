@@ -1,4 +1,4 @@
-package lesson11hashtable;
+package lesson11democode1;
 
 import java.util.HashSet;
 import java.util.Set;

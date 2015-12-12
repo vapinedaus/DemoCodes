@@ -1,4 +1,4 @@
-package lesson10binarysearchtree;
+package lesson10dmocode;
 import java.util.*;
 // Demo code for Treeset Implementation of Person Class
 public class TreeSetTest {

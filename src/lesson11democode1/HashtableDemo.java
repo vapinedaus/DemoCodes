@@ -1,4 +1,4 @@
-package lesson11hashtable;
+package lesson11democode1;
 import java.util.*;
 public class HashtableDemo {
 	// Demo code to use enumeration to access the elements	

@@ -1,4 +1,4 @@
-package lesson10binarysearchtree;
+package lesson10dmocode;
 import java.util.Comparator;
 import java.util.TreeSet;
 public class TreesetComparatorDemo {

@@ -1,4 +1,4 @@
-package lesson10binarysearchtree;
+package lesson10dmocode;
 
 import java.util.HashSet;
 import java.util.TreeSet;

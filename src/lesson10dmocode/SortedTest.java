@@ -1,4 +1,4 @@
-package lesson10binarysearchtree;
+package lesson10dmocode;
 import java.util.SortedSet;
 import java.util.TreeSet;
 // Demo code to retrieve the set of element using SortedSet
