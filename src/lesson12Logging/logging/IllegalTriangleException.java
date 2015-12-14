@@ -1,4 +1,4 @@
-package lesson12exceptionhandling.logging;
+package lesson12Logging.logging;
 public class IllegalTriangleException extends Exception {
 
 	public IllegalTriangleException (){

@@ -1,4 +1,4 @@
-package lesson12exceptionhandling;
+package lesson12Democode;
 
 class MyException1 extends Exception
 {

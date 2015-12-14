@@ -1,4 +1,4 @@
-package lesson12exceptionhandling;
+package lesson12Democode;
 
 import java.io.BufferedReader;
 import java.io.IOException;

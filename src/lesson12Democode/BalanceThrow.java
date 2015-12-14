@@ -1,4 +1,4 @@
-package lesson12exceptionhandling;
+package lesson12Democode;
 
 public class BalanceThrow {
 	public static void main(String[] args) {

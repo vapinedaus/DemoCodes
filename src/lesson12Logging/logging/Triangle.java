@@ -1,4 +1,4 @@
-package lesson12exceptionhandling.logging;
+package lesson12Logging.logging;
 
 import java.util.Arrays;
 import java.util.logging.Logger;
